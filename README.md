@@ -16,3 +16,6 @@ FileCabinet logo in navigation bar can redirect user to the list of documents on
 
 
 * Deployment instructions
+ go to: https://filecabinet21.herokuapp.com/
+ test user login: user@example.com
+ test password: 123456
