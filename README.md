@@ -3,7 +3,7 @@
 
 FileCabinet App allow users to create, manage, and store documents.
 Password with Authentication and forgot password option included.
-FileCabinet logo in navigation bar can redirect user to the list of documents once signed in.
+FileCabinet logo in navigation bar redirects user to a list of documents created once user is signed in.
 
 Technology used: html/haml, scss and normalize, gems: gem haml, simple_form, devise, rails_12factor, PostgreSQL
 
