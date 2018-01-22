@@ -2,14 +2,14 @@
 =================
 
 FileCabinet App allow users to create, manage, and store documents.
-
-Gems added:  gem haml, simple_form, and devise.
 Password with Authentication and forgot password option included.
 FileCabinet logo in navigation bar can redirect user to the list of documents once signed in.
 
+Technology used: html/haml, scss and normalize, gems: gem haml, simple_form, devise, rails_12factor, PostgreSQL
+
 ===Author and Contributors: N. Emery===
 
-===Version information==-
+===Version information===
 
 * Ruby version:  2.4.2p198
 * Rails version: 5.1.4
